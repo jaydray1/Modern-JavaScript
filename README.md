@@ -1,4 +1,4 @@
-<img src="https://cloud.githubusercontent.com/assets/2933430/21000144/6e6cfa86-bcd6-11e6-950c-149059841f19.png" width="250" align="right">
+<img src="https://tylermcginnis.com/tylermcginnis_glasses-300.png" width="300" align="right">
 
 ES6/7 for React Video Project
 ========
